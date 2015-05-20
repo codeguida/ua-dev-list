@@ -5,12 +5,12 @@
 ## Список
 
 * **Новинні ресурси**
+  * [BinaryUA](http://binary.com.ua/) — статті про Java для початківців.
   * [Codeguida](http://codeguida.com/) — статті про програмування, іт-новини, стартапи.
   * [dev.net.ua](http://dev.net.ua/) — українська спільнота розробників.
   * [DOU](http://dou.ua/) — спільнота програмістів з більщ ніж 90 тис. учасниками.
   * [Продизайн](http://prodesign.in.ua/) — блог про графічний дизайн (веб, інтерфейси, шрифти, фірмові стилі)ю
 * **Навчання**
-  * [BinaryUA](http://binary.com.ua/) — статті про Java для початківців.
   * [CyberBionic Systematics](http://edu.cbsystematics.com/ua/) — курси програмування.
   * [GoIT](http://goit.com.ua/) — навчальні курси ІT (QA, programming, design, project-management).
 * **Форуми та чати**
