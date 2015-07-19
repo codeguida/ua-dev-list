@@ -9,10 +9,18 @@
   * [Codeguida](http://codeguida.com/) — статті про програмування, іт-новини, стартапи.
   * [dev.net.ua](http://dev.net.ua/) — українська спільнота розробників.
   * [DOU](http://dou.ua/) — спільнота програмістів з більщ ніж 90 тис. учасниками.
-  * [Продизайн](http://prodesign.in.ua/) — блог про графічний дизайн (веб, інтерфейси, шрифти, фірмові стилі)ю
+  * [Продизайн](http://prodesign.in.ua/) — блог про графічний дизайн (веб, інтерфейси, шрифти, фірмові стилі).
+  * [vitaliypodoba.com](http://vitaliypodoba.com/) — блог Віталія Подоби про програмування для початківців та тих хто лише думає починати свій програмістський шлях.
+  * [Web.if.ua/](http://web.if.ua/) — інформаційний сайт для веб-дизайнерів, веб-розробників та поціновувачів сучасного сайтобудування.
+  * [Web-diz](http://web-diz.com.ua/) — збірка корисних ресурсів інтернету для веб-дизайнерів.
+  * [it-ua](http://it-ua.info/) - IT українською.
+  * [Becomejavasenior](http://becomejavasenior.com/) - 
 * **Навчання**
   * [CyberBionic Systematics](http://edu.cbsystematics.com/ua/) — курси програмування.
   * [GoIT](http://goit.com.ua/) — навчальні курси ІT (QA, programming, design, project-management).
+  * [PHP START](http://php-start.com/) — безкоштовні навчальні курси програмування на php. Розроблені спеціально для початківців та учнів з невпевненими знаннями php.
+  * [Becomejavasenior](http://becomejavasenior.com/blog/2015/06/24/java-email-courses/) - email курс по Java
+  * [Вчимось Веб Розробки на Django](http://www.vitaliypodoba.com/books/django-for-beginners/) - книга Віталія Подоби про основи програмування на Django.
 * **Форуми та чати**
   * [REPLACE](http://replace.org.ua/) —  україномовний форум з програмування, веб-дизайну, SEO та іншого. 
   * [dev-ua](https://github.com/dev-ua) — тематичні онлайн-чати про найрізноманітніші технології.
