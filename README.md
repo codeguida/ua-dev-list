@@ -16,10 +16,10 @@
   * [Web.if.ua/](http://web.if.ua/) — інформаційний сайт для веб-дизайнерів, веб-розробників та поціновувачів сучасного сайтобудування.
   * [Продизайн](http://prodesign.in.ua/) — блог про графічний дизайн (веб, інтерфейси, шрифти, фірмові стилі).
 * **Навчання**
+  * [Becomejavasenior](http://becomejavasenior.com/blog/2015/06/24/java-email-courses/) - email курс по Java
   * [CyberBionic Systematics](http://edu.cbsystematics.com/ua/) — курси програмування.
   * [GoIT](http://goit.com.ua/) — навчальні курси ІT (QA, programming, design, project-management).
   * [PHP START](http://php-start.com/) — безкоштовні навчальні курси програмування на php. Розроблені спеціально для початківців та учнів з невпевненими знаннями php.
-  * [Becomejavasenior](http://becomejavasenior.com/blog/2015/06/24/java-email-courses/) - email курс по Java
   * [Вчимось Веб Розробки на Django](http://www.vitaliypodoba.com/books/django-for-beginners/) - книга Віталія Подоби про основи програмування на Django.
 * **Форуми та чати**
   * [REPLACE](http://replace.org.ua/) —  україномовний форум з програмування, веб-дизайну, SEO та іншого. 
