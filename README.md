@@ -5,16 +5,16 @@
 ## Список
 
 * **Новинні ресурси**
+  * [Becomejavasenior](http://becomejavasenior.com/) — як стати Java професіоналом
   * [BinaryUA](http://binary.com.ua/) — статті про Java для початківців.
   * [Codeguida](http://codeguida.com/) — статті про програмування, іт-новини, стартапи.
   * [dev.net.ua](http://dev.net.ua/) — українська спільнота розробників.
   * [DOU](http://dou.ua/) — спільнота програмістів з більщ ніж 90 тис. учасниками.
-  * [Продизайн](http://prodesign.in.ua/) — блог про графічний дизайн (веб, інтерфейси, шрифти, фірмові стилі).
+  * [it-ua](http://it-ua.info/) - IT українською. 
   * [vitaliypodoba.com](http://vitaliypodoba.com/) — блог Віталія Подоби про програмування для початківців та тих хто лише думає починати свій програмістський шлях.
-  * [Web.if.ua/](http://web.if.ua/) — інформаційний сайт для веб-дизайнерів, веб-розробників та поціновувачів сучасного сайтобудування.
   * [Web-diz](http://web-diz.com.ua/) — збірка корисних ресурсів інтернету для веб-дизайнерів.
-  * [it-ua](http://it-ua.info/) - IT українською.
-  * [Becomejavasenior](http://becomejavasenior.com/) - 
+  * [Web.if.ua/](http://web.if.ua/) — інформаційний сайт для веб-дизайнерів, веб-розробників та поціновувачів сучасного сайтобудування.
+  * [Продизайн](http://prodesign.in.ua/) — блог про графічний дизайн (веб, інтерфейси, шрифти, фірмові стилі).
 * **Навчання**
   * [CyberBionic Systematics](http://edu.cbsystematics.com/ua/) — курси програмування.
   * [GoIT](http://goit.com.ua/) — навчальні курси ІT (QA, programming, design, project-management).
