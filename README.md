@@ -20,6 +20,7 @@
   * [CyberBionic Systematics](http://edu.cbsystematics.com/ua/) — курси програмування.
   * [GoIT](http://goit.com.ua/) — навчальні курси ІT (QA, programming, design, project-management).
   * [PHP START](http://php-start.com/) — безкоштовні навчальні курси програмування на php. Розроблені спеціально для початківців та учнів з невпевненими знаннями php.
+  * [StartIT](http://start-it.com.ua/) - курси для ІТ спеціалістів, а також тематичні івенти та мастер класи.
   * [Вчимось Веб Розробки на Django](http://www.vitaliypodoba.com/books/django-for-beginners/) - книга Віталія Подоби про основи програмування на Django.
 * **Форуми та чати**
   * [REPLACE](http://replace.org.ua/) —  україномовний форум з програмування, веб-дизайну, SEO та іншого. 
