@@ -7,6 +7,7 @@
 * **Новинні ресурси**
   * [Becomejavasenior](http://becomejavasenior.com/) — як стати Java професіоналом
   * [BinaryUA](http://binary.com.ua/) — статті про Java для початківців.
+  * [bunyk.wordpress.com](https://bunyk.wordpress.com/) - блог python програміста Тараса Буника.
   * [Codeguida](http://codeguida.com/) — статті про програмування, іт-новини, стартапи.
   * [dev.net.ua](http://dev.net.ua/) — українська спільнота розробників.
   * [DOU](http://dou.ua/) — спільнота програмістів з більщ ніж 90 тис. учасниками.
