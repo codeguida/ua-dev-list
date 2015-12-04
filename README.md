@@ -15,6 +15,7 @@
   * [Web-diz](http://web-diz.com.ua/) — збірка корисних ресурсів інтернету для веб-дизайнерів.
   * [Web.if.ua/](http://web.if.ua/) — інформаційний сайт для веб-дизайнерів, веб-розробників та поціновувачів сучасного сайтобудування.
   * [Продизайн](http://prodesign.in.ua/) — блог про графічний дизайн (веб, інтерфейси, шрифти, фірмові стилі).
+  * [Frontender Magazine](http://frontender.info/) - переклади і авторські статті, пов'язані з фронт-енд розробкою.
 * **Навчання**
   * [Becomejavasenior](http://becomejavasenior.com/blog/2015/06/24/java-email-courses/) - email курс по Java
   * [CyberBionic Systematics](http://edu.cbsystematics.com/ua/) — курси програмування.
@@ -22,6 +23,7 @@
   * [PHP START](http://php-start.com/) — безкоштовні навчальні курси програмування на php. Розроблені спеціально для початківців та учнів з невпевненими знаннями php.
   * [StartIT](http://start-it.com.ua/) - курси для ІТ спеціалістів, а також тематичні івенти та мастер класи.
   * [Вчимось Веб Розробки на Django](http://www.vitaliypodoba.com/books/django-for-beginners/) - книга Віталія Подоби про основи програмування на Django.
+  * [Prometheus](https://github.com/dev-ua) - безкоштовні онлайн-курси від викладачів КНУ, КПІ та Києво-Могилянської академії. (Web UI, Python, Алгоритми, QA)
 * **Форуми та чати**
   * [REPLACE](http://replace.org.ua/) —  україномовний форум з програмування, веб-дизайну, SEO та іншого. 
   * [dev-ua](https://github.com/dev-ua) — тематичні онлайн-чати про найрізноманітніші технології.
