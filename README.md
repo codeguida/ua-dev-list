@@ -15,7 +15,6 @@
   * [Web-diz](http://web-diz.com.ua/) — збірка корисних ресурсів інтернету для веб-дизайнерів.
   * [Web.if.ua/](http://web.if.ua/) — інформаційний сайт для веб-дизайнерів, веб-розробників та поціновувачів сучасного сайтобудування.
   * [Продизайн](http://prodesign.in.ua/) — блог про графічний дизайн (веб, інтерфейси, шрифти, фірмові стилі).
-  * [Frontender Magazine](http://frontender.info/) - переклади і авторські статті, пов'язані з фронт-енд розробкою.
 * **Навчання**
   * [Becomejavasenior](http://becomejavasenior.com/blog/2015/06/24/java-email-courses/) - email курс по Java
   * [CyberBionic Systematics](http://edu.cbsystematics.com/ua/) — курси програмування.
