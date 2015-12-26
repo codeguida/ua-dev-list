@@ -24,6 +24,7 @@
   * [Вчимось Веб Розробки на Django](http://www.vitaliypodoba.com/books/django-for-beginners/) - книга Віталія Подоби про основи програмування на Django.
   * [Prometheus](http://prometheus.org.ua/courses/) - безкоштовні онлайн-курси від викладачів КНУ, КПІ та Києво-Могилянської академії. (Web UI, Python, Алгоритми, QA)
 * **Документація**
+  * [Django](http://www.chervol.com/django_uk_docs/) - український переклад документації Python фреймворку Django.
   * [Bootstrap](http://twbs.docs.org.ua/) - український переклад документації Bootstrap.
   * [PHP](http://php.docs.org.ua/) - український переклад документції PHP.
 * **Форуми та чати**
